@@ -1,0 +1,2 @@
+-Fluent Python, de Luciano Ramalho
+-Aprendendo pradrões de projeto em python, de Giridhar
