@@ -11,7 +11,8 @@ def index():
 @app.route('/ola/<nome>')
 def ola_mundo(nome):
     return "Olá, " + nome
-
+#criamos a rota para a função logar e passamos como argumento uma lista contendo duas strings,
+#‘GET’ e ‘POST’ (linha 15). Isso indica que essa rota deve responder às requisições do tipo GET e POST.
 @app.route('/logar', methods=['GET', 'POST'])
 def logar():
     if request.method == 'POST':
