@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d304480a-434b-416e-be83-11db9c18a073" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/04Python em outros paradigmas/02 Programação concorrente/Exemplos/Ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Python em outros paradigmas/02 Programação concorrente/Exemplos/Exercicio01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Python em outros paradigmas/02 Programação concorrente/Exemplos/Exercicio02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Python em outros paradigmas/04 ciência de dados/Exemplo/exemplo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Python em outros paradigmas/04 ciência de dados/exercicios/exercicio01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Python em outros paradigmas/04 ciência de dados/exercicios/exercicio02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Python em outros paradigmas/04 ciência de dados/exercicios/exercicio03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Python em outros paradigmas/04 ciência de dados/exercicios/exercicio04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Python em outros paradigmas/04 ciência de dados/exercicios/exercicio05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_SuperMario/modal/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_SuperMario/modal/exemplo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03Orientado_a_objetos/04Integridade_entre_objetos_Encapsulamento/Atributos_privados.py" beforeDir="false" afterPath="$PROJECT_DIR$/03Orientado_a_objetos/04Integridade_entre_objetos_Encapsulamento/Atributos_privados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04Python em outros paradigmas/04 ciência de dados/regressao.py" beforeDir="false" afterPath="$PROJECT_DIR$/04Python em outros paradigmas/04 ciência de dados/regressao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_SuperMario/.idea/Game-SuperMario.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_SuperMario/.idea/Game-SuperMario.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_SuperMario/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_SuperMario/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_SuperMario/controller/ScoresController.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_SuperMario/controller/ScoresController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_SuperMario/modal/BD.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_SuperMario/modal/BD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_SuperMario/modal/classJogador.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_SuperMario/modal/classJogador.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_SuperMario/modal/classScores.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_SuperMario/modal/classScores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_SuperMario/modal/conexao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_SuperMario/modal/conexao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_SuperMario/view/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_SuperMario/view/index.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Game_SuperMario" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RRvOSihCyfHbfxlDwe7z83rTPp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cicer/OneDrive/Documents/GitHub/Game_SuperMario&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cicer\OneDrive\Documents\GitHub\Game_SuperMario\view\static" />
+      <recent name="C:\Users\cicer\OneDrive\Documents\GitHub\Game_SuperMario\view" />
+      <recent name="C:\Users\cicer\OneDrive\Documents\GitHub\Game_SuperMario\controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ScoresController">
+    <configuration name="ScoresController" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Game-SuperMario" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Game_SuperMario/controller" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Game_SuperMario/controller/ScoresController.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classJogador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Game-SuperMario" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Game_SuperMario/modal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Game_SuperMario/modal/classJogador.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classScores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Game-SuperMario" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Game_SuperMario/modal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Game_SuperMario/modal/classScores.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Game-SuperMario" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Game_SuperMario/modal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Game_SuperMario/modal/ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exemplo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Game-SuperMario" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Game_SuperMario/modal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Game_SuperMario/modal/exemplo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ScoresController" />
+        <item itemvalue="Python.classJogador" />
+        <item itemvalue="Python.ex" />
+        <item itemvalue="Python.classScores" />
+        <item itemvalue="Python.exemplo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d304480a-434b-416e-be83-11db9c18a073" name="Changes" comment="" />
+      <created>1687225677289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687225677289</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Game_SuperMario/controller/ScoresController.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Game_SuperMario/modal/exemplo.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03Orientado_a_objetos/04Integridade_entre_objetos_Encapsulamento/Atributos_privados.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03Orientado_a_objetos/04Integridade_entre_objetos_Encapsulamento/Atributos_privados.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04Python em outros paradigmas/04 ciência de dados/exercicios/exercicio02.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Game_SuperMario/modal/exemplo.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Game_SuperMario/modal/classJogador.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Game_SuperMario/controller/ScoresController.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Game_SuperMario/modal/classScores.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Game_SuperMario/modal/ex.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Game_SuperMario/modal/ex.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
