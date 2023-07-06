@@ -42,7 +42,7 @@ def main():
     """como acessar os método decorados
     com @property e @ < nomedometodo >.setter"""
     conta = Conta(1)
-    conta.saldo = 1000  # usando o @saldo.setter
+    conta.saldo = 100  # usando o @saldo.setter
     print(f'saldo da conta = {conta.saldo}')  # usando o @property
    #print(saldo)
 

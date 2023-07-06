@@ -2,6 +2,15 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 import pandas
 
+#############  Algoritmo Supervisionado  ###############
+"""
+Supervisionado – regressão linear
+Neste exemplo, utilizaremos uma série histórica fictícia de casos de dengue de uma determinada cidade e,
+ com o auxílio do algoritmo supervisionado de regressão linear, predizeremos casos futuros.
+A série está em uma planilha (arquivo CSV) com duas colunas, ano e casos (número de casos).
+Na planilha, temos o número de casos de 2001 a 2017. Utilizaremos essa série histórica e aplicaremos
+ o algoritmo de regressão linear para estimar os casos de dengue para o ano de 2018.
+"""
 #############      Pré-processamento     ###############
 # Coleta e Integração
 arquivo = pandas.read_csv('dados_dengue.csv')
